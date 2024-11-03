@@ -24,3 +24,20 @@ To learn more about Next.js, take a look at the following resources:
 To make your next App run smoothly in production make sure to deploy your project with [Repl Deployments](https://docs.replit.com/hosting/deployments/about-deployments)!
 
 You can also produce a production build by running `npm run build` and [changing the run command](https://docs.replit.com/programming-ide/configuring-repl#run) to `npm run start`.
+
+## Installation
+
+Run the following command to install all necessary dependencies, including Next.js:
+
+npm install next
+
+Build the project for production:
+
+npm run build
+
+Start the application in production mode:
+npm start
+
+You must also setup the GEMINI API KEY
+
+![alt text](assets/homepage.png)
